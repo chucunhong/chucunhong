@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Thang Viet Doan!</h1>
+<h1>Hi 👋, I'm Thang Doan Viet!</h1>
 
 Notta on the way !!!!!
 
@@ -30,7 +30,7 @@ Notta on the way !!!!!
 
 <div align="center">
   <p>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=thangdv509&theme=dark&background=000004" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chucunhong&theme=dark&background=000004" alt="GitHub Streak" />
   </p>
 </div>
 
